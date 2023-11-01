@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> A demo of reading form data with serverside validation. Made possible by React and Netlify Serverless 🔹 
+> Reading Form Data with Server-Side Validation Using React and Netlify Serverless🔹 
 
 Source code from [Jason Lengstorf's eggheadio course](https://egghead.io/courses/create-a-typescript-powered-serverless-react-application-cf0acfbf) on Netlify serverless with TS + React.
 
@@ -55,7 +55,7 @@ npx vitest run
 
 👤 **Joseph Atzamis**
 
-* Github: [@holben888](https://github.com/sifisatz)
+* Github: [@sifisatz](https://github.com/sifisatz)
 
 ## Show your support
 
