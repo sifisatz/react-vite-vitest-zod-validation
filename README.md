@@ -1,16 +1,12 @@
-<h1 align="center">React + Netlify serverless Form Demo 📝</h1>
+<h1 align="center">Form validation demo 📝</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/bholmesdev" target="_blank">
-    <img alt="Twitter: bholmesdev" src="https://img.shields.io/twitter/follow/bholmesdev.svg?style=social" />
-  </a>
 </p>
 
 > A demo of reading form data with serverside validation. Made possible by React and Netlify Serverless 🔹 
 
 Source code from [Jason Lengstorf's eggheadio course](https://egghead.io/courses/create-a-typescript-powered-serverless-react-application-cf0acfbf) on Netlify serverless with TS + React.
 
-### 🧑‍💻 [Try it out!](https://form-validation-demo.netlify.app)
 
 ## Install
 
@@ -57,11 +53,9 @@ npx vitest run
 
 ## Author
 
-👤 **Ben Holmes**
+👤 **Joseph Atzamis**
 
-* Website: https://bholmes.dev
-* Twitter: [@bholmesdev](https://twitter.com/bholmesdev)
-* Github: [@holben888](https://github.com/holben888)
+* Github: [@holben888](https://github.com/sifisatz)
 
 ## Show your support
 
